@@ -1,5 +1,18 @@
 # Illusionary Number Guessing in Python Turtle Graphics 🎯
 
+---
+
+## 📌 Course Information
+- **Course Title**: Computer Graphics Lab  
+- **Course Code**: CSE‑328  
+- **Prepared For**: Ms. Faria Sultana Bintha Rohman (Lab Technical Officer)  
+- **Prepared By**: Md. Abdul Al Noman (ID: 232031044, Batch 31st UG, Term 6th, Semester Spring 6M)  
+- **Department**: Computer Science & Engineering, Feni University  
+- **Date of Submission**: 30‑05‑2026
+
+---
+
+- 
 ## 📖 Overview
 This project demonstrates an **Illusionary Number Guess Simulation** using Python’s Turtle Graphics.  
 The program generates a circular illusion pattern with overlapping circles and camouflages a random three‑digit number inside it.  
@@ -51,17 +64,7 @@ The full implementation is available in the repository under `Illusionary_Number
 A hidden number is camouflaged inside the circular illusion.
 Options: [221, 260, 797]
 Enter the illusionary Number: 221
-✅ Correct!
-
----
-
-## 📌 Course Information
-- **Course Title**: Computer Graphics Lab  
-- **Course Code**: CSE‑328  
-- **Prepared For**: Ms. Faria Sultana Bintha Rohman (Lab Technical Officer)  
-- **Prepared By**: Md. Abdul Al Noman (ID: 232031044, Batch 31st UG, Term 6th, Semester Spring 6M)  
-- **Department**: Computer Science & Engineering, Feni University  
-- **Date of Submission**: 30‑05‑2026  
+✅ Correct!  
 
 ---
 
