@@ -60,10 +60,10 @@ The full implementation is available in the repository under `Illusionary_Number
 ---
 
 ## 📝 Sample Output
--A hidden number is camouflaged inside the circular illusion.
--Options: [221, 260, 797]
--Enter the illusionary Number: 221
--✅ Correct!  
+- A hidden number is camouflaged inside the circular illusion.
+- Options: [221, 260, 797]
+- Enter the illusionary Number: 221
+- ✅ Correct!  
 
 ---
 
