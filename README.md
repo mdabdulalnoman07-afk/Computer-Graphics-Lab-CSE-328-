@@ -12,8 +12,7 @@
 
 ---
 
-- 
-## 📖 Overview
+## 📖 Theory
 This project demonstrates an **Illusionary Number Guess Simulation** using Python’s Turtle Graphics.  
 The program generates a circular illusion pattern with overlapping circles and camouflages a random three‑digit number inside it.  
 Players must identify the hidden number from multiple‑choice options printed in the terminal.
@@ -61,10 +60,10 @@ The full implementation is available in the repository under `Illusionary_Number
 ---
 
 ## 📝 Sample Output
-A hidden number is camouflaged inside the circular illusion.
-Options: [221, 260, 797]
-Enter the illusionary Number: 221
-✅ Correct!  
+-A hidden number is camouflaged inside the circular illusion.
+-Options: [221, 260, 797]
+-Enter the illusionary Number: 221
+-✅ Correct!  
 
 ---
 
