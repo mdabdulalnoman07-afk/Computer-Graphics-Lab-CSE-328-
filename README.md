@@ -36,7 +36,7 @@ Players must identify the hidden number from multiple‑choice options printed i
 
 ---
 
-## 🧩 Algorithm
+## 🧩 Methodology
 1. **Circular Illusion**: Draw 250 overlapping circles, each rotated slightly, forming a dense circular illusion.  
 2. **Hidden Number**: Generate a random three‑digit number and place it at a random position using a camouflage color (`lightgray`).  
 3. **Options Generation**: Shuffle the correct number with two random distractors to form multiple‑choice options.  
